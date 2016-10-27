@@ -1,0 +1,15 @@
+/.gradle
+/build
+/app/build
+/cupboard/build
+/android-pdfview/build
+/local.properties
+/.idea
+/gradle/local.properties
+obj
+*.iml
+/captures
+app/src/main/java/biz/ubiapps/hubcap/util/Debug.java
+/SmartOffice/build
+*.hprof
+*.apk

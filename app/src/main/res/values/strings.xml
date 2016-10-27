@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestRGB</string>
+    <string name="action_settings">Settings</string>
+    <string name="original_file_size">original file size: %1$s</string>
+    <string name="file_size">file size: %1$s</string>
+    <string name="saveAsJpeg">Save as Jpeg</string>
+    <string name="saveAsARGB">Save ARGB</string>
+    <string name="saveAsRGB">Save RGB</string>
+</resources>
